@@ -1,10 +1,10 @@
 ### post
-POST http://localhost:3003/api/blogs
+POST http://localhost:3002/api/blogs
 Content-Type: application/json
 
 {
-    "title": "Segundo blog",
+    "title": "Cuarto blog",
     "author": "Infraburn",
     "url": "www.infraburndev.com",
-    "likes": 45
+    "likes": 1224
 }
